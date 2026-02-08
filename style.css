@@ -80,7 +80,7 @@ body::before{
     padding: 20px;
     border-radius: 20px;
     border: 2px solid #CFC9BD;
-    cursor: pointer;
+    /* cursor: pointer; */
     height: 55vh;
     position: relative;
     overflow: hidden;
@@ -149,7 +149,7 @@ body::before{
     padding: 20px;
     border-radius: 20px;
     border: 2px solid #CFC9BD;
-    cursor: pointer;
+    /* cursor: pointer; */
     height: 28vh;
     position: relative;
     overflow: hidden;
@@ -217,7 +217,7 @@ body::before{
     border-radius: 20px;
     border: 2px solid #CFC9BD;
     flex: 1;
-    cursor: pointer;
+    /* cursor: pointer; */
     position: relative;
     overflow: hidden;
 }
